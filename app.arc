@@ -1,6 +1,9 @@
 @app
 personal-v2-dd9c
 
+@aws
+region us-east-2
+
 @http
 /*
   method any
